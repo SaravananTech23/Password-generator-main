@@ -1,4 +1,6 @@
 # password-generator
 This is a Random password generator tool created using html , css and javascript
+to use them all.
 
-deployment link 👉 https://jothishwar.github.io/password-generator/
+Check this live site👇
+https://saravanantech23.github.io/Trip-Make-easy/
